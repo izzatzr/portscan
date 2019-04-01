@@ -1,6 +1,3 @@
-// Port Scanner in Go by Izzat Zuliya R.
-// Currently this is only simple port scanner implementation, furthermore might have some cool features
-
 package main
 
 import (
